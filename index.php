@@ -1,22 +1,30 @@
 <?php require "blocks/header.php"?>
 
+
+<div class="div-p">
 <div class="welcome_div container "><h1 class="h1_welcome">Հաջողակ մարդու մի օրինակ </h1> 
-<h1 class="h1_welcomey2">Pavel Durov</h1> 
     </div>
+
     <img src="img/durov1.jpg" class="img">
 
-    <img src="img/durov3.jpg" class="img2">
+    <img src="img/facebook.jpg" class="img2">
+
+
  
 <br>
+
     <p class="p"> Պավել Վալերիևիչ Դուրով (ծնվ. հոկտեմբերի 10, 1984, Լենինգրադ), ռուս ձեռնարկատեր, ծրագրավորող, դոլարային միլիարդատեր։
      VKontakte սոցիալական ցանցի և համանուն ընկերության, միջպլատֆորմային մեսենջերի Telegram-ի և այլ նախագծերի ստեղծողներից մեկը։ VKontakte-ի նախկին գործադիր տնօրեն (2006-2014)։
      </p>
 
-     <a href="durov.php" class="more">More</a>
+
+     <a href="hajoghak.php" class="more">More</a>
+     </div>
 
 <br><br>
+<div class="div-p">
      <div class="welcome_div container "><h1 class="h1_welcome">ժամանակակից մասնագիտություն  </h1> 
-    <h1 class="h1_welcomey2">Ծրագրավորում</h1> 
+
     </div>
 
     <img src="img/coding1.jpg" class="img3">
@@ -29,11 +37,14 @@
     Ծրագրավորումը հիմնված է ծրագրավորման լեզուների օգտագործման վրա, որոնցում գրված են ծրագրերի սկզբնական տեքստերը: 
     </p>
 
-    <a href="nor.php" class="more">More</a>
 
+    <a href="nor.php" class="more">More</a>
+    </div>
 <br><br>
+
+<div class="div-p">
      <div class="welcome_div container "><h1 class="h1_welcome">ծերացող մասնագիտություն  </h1> 
-    <h1 class="h1_welcomey2">Телефонист</h1> 
+    
     </div>
 
     <img src="img/telefonist1.jpg" class="img5">
@@ -46,8 +57,10 @@
      պաշտոն և անձ, ով ունի դրանք և գտնվում է աշխարհի այս կամ այն պետության զինված ուժերի ազդանշանային զորքերում ։ Կա նաև ավագ հեռախոսավար։ 
     </p>
 
+
     <a href="hin.php" class="more">More</a>
+    </div>
 
-
+ 
 
 <?php require "blocks/footer.php"?>

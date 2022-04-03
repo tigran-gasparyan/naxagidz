@@ -15,7 +15,7 @@
             <a class="header_link" href="index.php"><strong>Home</strong></a><br>
             <a class="header_link1" href="nor.php"><strong>ժամանակակից մասնագիտություն</strong></a><br>
             <a class="header_link2" href="hin.php"><strong>ծերացող մասնագիտություն</strong></a><br>
-            <a class="header_link3" href="durov.php"><strong>հաջողակ մարդու մի օրինակ</strong></a>
+            <a class="header_link3" href="hajoghak.php"><strong>հաջողակ մարդու մի օրինակ</strong></a>
         </nav>
 </div>
     <br>
