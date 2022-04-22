@@ -17,6 +17,7 @@
 
 <img src="img/gates.jpg" alt="">
 <img src="img/gates3.jpg" alt="">
+<img src="img/gatesphrase.jpg" alt="">
 
 <div class="new-div">
 <p class="durov_p">
